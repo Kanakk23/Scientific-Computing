@@ -29,7 +29,7 @@ Each module is implemented in both **Python** (with NumPy/SciPy) and **MATLAB**,
 ---
 
 ##📂 Repository Structure
-'''bash
+```bash
 mth308-numerical-methods/
 │
 ├── Python/
@@ -47,4 +47,4 @@ mth308-numerical-methods/
 │   └── demo_matrix_solvers.ipynb
 │
 └── README.md
-'''
+```
