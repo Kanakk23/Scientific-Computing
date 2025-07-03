@@ -28,12 +28,7 @@ Each module is implemented in both **Python** (with NumPy/SciPy) and **MATLAB**,
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/mth308-numerical-methods.git
-cd mth308-numerical-methods
+##📂 Repository Structure
 
 mth308-numerical-methods/
 │
