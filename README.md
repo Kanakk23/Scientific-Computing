@@ -34,3 +34,21 @@ Each module is implemented in both **Python** (with NumPy/SciPy) and **MATLAB**,
 ```bash
 git clone https://github.com/yourusername/mth308-numerical-methods.git
 cd mth308-numerical-methods
+
+mth308-numerical-methods/
+│
+├── Python/
+│   ├── root_finding/              # Bisection, Regula‑Falsi, Newton, Secant, Fixed‑Point
+│   ├── linear_systems/            # Gaussian elimination, LU (Doolittle & Cholesky), Power Method
+│   └── interpolation_integration/  # Lagrange, Simpson’s, Newton‑Cotes, Gauss quadrature
+│
+├── MATLAB/
+│   ├── root_finding.m
+│   ├── linear_systems.m
+│   └── interp_integration.m
+│
+├── examples/                      # Sample driver scripts and Jupyter notebooks
+│   ├── solve_roots.ipynb
+│   └── demo_matrix_solvers.ipynb
+│
+└── README.md
